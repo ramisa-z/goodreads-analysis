@@ -37,7 +37,7 @@ An exploratory data analysis of **Goodreads Choice Awards finalists from 2011–
 - Parsed each book's genre list, which was stored inconsistently as either real lists or strings, and **exploded** it so each genre gets its own row, since many books span several genres
 - Excluded "Audiobook" from genres, because the analysis doesn't look at book format
 
-##Data
+## Data
 
 [Goodreads Choice Awards 2011–2024 Books](https://www.kaggle.com/datasets/krisbruurs/goodreads-choice-awards-2011-2024-books/data) on Kaggle, which covers every finalist with its genres, rating, rating count, page count, publication year, and award year.
 
