@@ -11,11 +11,11 @@ An exploratory data analysis of **Goodreads Choice Awards finalists from 2011–
 
 ## 📊 Key Findings
 
-- **Fiction dominates.** Fiction is by far the most nominated genre. Nonfiction comes second, but well behind it, and most of the top 20 genres (out of 456 total) fall under fiction.
-- **Fantasy runs in cycles.** Fantasy, the most popular fiction genre, peaked in 2011–2012 and has never reached that level of attention again. Nominations seem to rise roughly every four years.
-- **Publishers seem to follow the trend.** Fantasy releases tend to go up after each rise in Fantasy's popularity, which suggests publishers may use Goodreads trends when planning releases.
-- **Popular ≠ highest rated.** History is one of the least nominated of the top genres but has the highest average ratings, likely because its smaller, more specialized audience is more engaged. Most other genres cluster between 3.75 and 4.25 stars.
-- **300–400 pages is the sweet spot.** Finalists consistently fall in the 300–400 page range, across every award year.
+- **Fiction dominates**: Fiction is by far the most nominated genre. Nonfiction comes second, but well behind it, and most of the top 20 genres (out of 456 total) fall under fiction.
+- **Fantasy cycles around**: Fantasy, the most popular fiction genre, peaked in 2011–2012 and has never reached that level of attention again. Nominations seem to rise roughly every four years.
+- **Publishers follow the trends**: Fantasy releases tend to go up after each rise in Fantasy's popularity, which suggests publishers may use Goodreads trends when planning releases.
+- **Popular ≠ highest rated**: History is one of the least nominated of the top genres but has the highest average ratings, likely because its smaller, more specialized audience is more engaged. Most other genres cluster between 3.75 and 4.25 stars.
+- **300–400 pages are the most common book lengths**: Finalists consistently fall in the 300–400 page range, across every award year.
 
 
 ## Tech Stack
@@ -38,7 +38,7 @@ An exploratory data analysis of **Goodreads Choice Awards finalists from 2011–
 
 Download `final_books_data_2011_2024.csv` and put it in the same folder as the notebook.
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/goodreads-analysis.git
